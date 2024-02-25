@@ -4,7 +4,7 @@
              xmlns:model="clr-namespace:MonkeyFinder.Model"
              x:Class="MonkeyFinder.View.MainPage">
 
-    <CollectionView>
+    <CollectionView >
         <CollectionView.ItemsSource>
             <x:Array Type="{x:Type model:Monkey}">
                 <model:Monkey 
