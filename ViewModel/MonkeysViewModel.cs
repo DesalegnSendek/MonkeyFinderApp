@@ -1,47 +1,46 @@
 ﻿using MonkeyFinder.Services;
-using System.Linq.Expressions;
-namespace MonkeyFinder.ViewModel;
 
 
 public partial class MonkeysViewModel : BaseViewModel
 {
-    MonkeyService monkeyService;
-
+    
     public ObservableCollection<Monkey> Monkeys { get; } = new();
+    MonkeyService monkeyService;
     public MonkeysViewModel(MonkeyService monkeyService)
     {
-        //Title = "Monkey Finder";
+        Title = "Monkey Search";
         this.monkeyService = monkeyService;
-
     }
 
-    async Task GetMonkeysAsync() 
+    [RelayCommand]
+    async Task GetMonkeysAsync()
     {
-        if (IsBussy)
+        if (IsBusy)
             return;
 
         try
         {
-            IsBussy = true;
+            IsBusy = true;
             var monkeys = await monkeyService.GetMonkeys();
-            if(monkeys.Count != 0)
-            monkeys.Clear();
 
-            foreach(var monkey in monkeys)
-            {
+            if (Monkeys.Count != 0)
+                Monkeys.Clear();
+
+            foreach (var monkey in monkeys)
                 Monkeys.Add(monkey);
-            }
-            
-        }catch (Exception ex)
+
+        }
+        catch (Exception ex)
         {
-            Debug.WriteLine(ex);
-            await Shell.Current.DisplayAlert("error", $"Unable to get Monkeys {ex.Message}", "Ok");
+            Debug.WriteLine($"Unable to get monkeys: {ex.Message}");
+            await Shell.Current.DisplayAlert("Error!", ex.Message, "OK");
         }
         finally
         {
-            IsBussy = false;
-
+            IsBusy = false;
         }
+
     }
+
 
 }

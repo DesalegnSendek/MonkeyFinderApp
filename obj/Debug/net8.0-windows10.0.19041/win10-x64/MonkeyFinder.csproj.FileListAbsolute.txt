@@ -189,3 +189,13 @@ E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\De
 E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\mooch.scale-100.PNG
 E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\henry.scale-100.jpg
 E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\baboon.scale-100.jpg
+E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\MonkeyFinder.sourcelink.json
+E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\sp\dessSplashScreen.scale-100.jpg
+E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\sp\dessSplashScreen.scale-125.jpg
+E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\sp\dessSplashScreen.scale-150.jpg
+E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\sp\dessSplashScreen.scale-200.jpg
+E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\sp\dessSplashScreen.scale-400.jpg
+E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\aastu.scale-100.jpg
+E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\designer.scale-100.jpeg
+E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\dess.scale-100.jpg
+E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\eye.scale-100.jpg

@@ -25,6 +25,14 @@ public class MonkeyService
         {
             monkeyList = await response.Content.ReadFromJsonAsync<List<Monkey>>();
         }
+
+        using var stream = await FileSystem.OpenAppPackageFileAsync("monkeydata.json");
+        using var reader = new StreamReader(stream);
+        var contents = await reader.ReadToEndAsync();
+        monkeyList = JsonSerializer.Deserialize<List<Monkey>>(contents);
+
         return monkeyList;
     }
+
+    
 }

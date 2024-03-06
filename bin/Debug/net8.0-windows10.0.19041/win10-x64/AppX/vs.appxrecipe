@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>46739610F404E2441D0D890DD759E28453B92DAF1F2B8DD0AEB891BE50592F6D</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>B16C62FF70352936D9449569AB5095EAC68535A9BA2E86D6C0DE66C7A90CF9A8</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>ECD44DAE-B03E-4D8B-B427-71865961E696_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>ECD44DAE-B03E-4D8B-B427-71865961E696_9zz4h110yvjzm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>ECD44DAE-B03E-4D8B-B427-71865961E696</RegisteredPackageID>
@@ -29,25 +29,25 @@
     <AppXManifest Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-02-25T06:37:54.842</Modified>
+      <Modified>2024-03-05T18:24:13.665</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-02-25T06:10:38.463</Modified>
+      <Modified>2024-03-05T18:24:13.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041\win10-x64\MonkeyFinder.runtimeconfig.json">
       <PackagePath>MonkeyFinder.runtimeconfig.json</PackagePath>
-      <Modified>2024-02-24T10:07:22.354</Modified>
+      <Modified>2024-03-05T12:26:52.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041\win10-x64\MonkeyFinder.dll">
       <PackagePath>MonkeyFinder.dll</PackagePath>
-      <Modified>2024-02-25T06:37:52.722</Modified>
+      <Modified>2024-03-05T18:24:09.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\apphost.exe">
       <PackagePath>MonkeyFinder.exe</PackagePath>
-      <Modified>2024-02-25T06:37:52.906</Modified>
+      <Modified>2024-03-05T18:24:09.637</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,6 +56,26 @@
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\Resources\Raw\monkeydata.json">
       <PackagePath>monkeydata.json</PackagePath>
       <Modified>2023-11-27T22:24:59.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\sp\dessSplashScreen.scale-100.jpg">
+      <PackagePath>dessSplashScreen.scale-100.jpg</PackagePath>
+      <Modified>2024-03-05T13:25:05.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\sp\dessSplashScreen.scale-125.jpg">
+      <PackagePath>dessSplashScreen.scale-125.jpg</PackagePath>
+      <Modified>2024-03-05T13:25:05.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\sp\dessSplashScreen.scale-150.jpg">
+      <PackagePath>dessSplashScreen.scale-150.jpg</PackagePath>
+      <Modified>2024-03-05T13:25:05.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\sp\dessSplashScreen.scale-200.jpg">
+      <PackagePath>dessSplashScreen.scale-200.jpg</PackagePath>
+      <Modified>2024-03-05T13:25:06.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\sp\dessSplashScreen.scale-400.jpg">
+      <PackagePath>dessSplashScreen.scale-400.jpg</PackagePath>
+      <Modified>2024-03-05T13:25:06.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
@@ -80,6 +100,10 @@
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-11-27T22:24:59.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\aastu.scale-100.jpg">
+      <PackagePath>aastu.scale-100.jpg</PackagePath>
+      <Modified>2023-01-31T17:28:04.392</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\alouatta.scale-100.jpg">
       <PackagePath>alouatta.scale-100.jpg</PackagePath>
@@ -285,29 +309,41 @@
       <PackagePath>capuchin.scale-100.jpg</PackagePath>
       <Modified>2024-02-25T06:04:30.543</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\designer.scale-100.jpeg">
+      <PackagePath>designer.scale-100.jpeg</PackagePath>
+      <Modified>2023-12-18T18:25:40.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\dess.scale-100.jpg">
+      <PackagePath>dess.scale-100.jpg</PackagePath>
+      <Modified>2023-01-17T21:09:54.019</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-02-25T06:10:04.850</Modified>
+      <Modified>2024-03-05T13:27:37.015</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-02-25T06:10:04.869</Modified>
+      <Modified>2024-03-05T13:27:37.035</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-02-25T06:10:04.938</Modified>
+      <Modified>2024-03-05T13:27:37.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-02-25T06:10:05.025</Modified>
+      <Modified>2024-03-05T13:27:37.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-02-25T06:10:05.105</Modified>
+      <Modified>2024-03-05T13:27:37.155</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\douc.scale-100.jpg">
       <PackagePath>douc.scale-100.jpg</PackagePath>
       <Modified>2024-02-25T06:04:43.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\eye.scale-100.jpg">
+      <PackagePath>eye.scale-100.jpg</PackagePath>
+      <Modified>2023-05-06T18:42:12.979</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041\win10-x64\resizetizer\r\henry.scale-100.jpg">
       <PackagePath>henry.scale-100.jpg</PackagePath>
@@ -343,7 +379,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\dotnet-maui-workshop-main\Part 1 - Displaying Data\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041\win10-x64\MonkeyFinder.deps.json">
       <PackagePath>MonkeyFinder.deps.json</PackagePath>
-      <Modified>2024-02-24T10:07:21.975</Modified>
+      <Modified>2024-03-05T18:24:12.438</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tttt\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
